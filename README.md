@@ -65,31 +65,31 @@ This project was developed as a **learning-focused Go application** to strengthe
 
 Welcome to Ticket Booking System
 
-Total Tickets: 50
+Total Tickets: 50<br>
 Currently available: 50
 
 Enter your first name:
-Vaishnavi
+Vaishnavi<br>
 Enter your last name:
-Sathe
+Sathe<br>
 Enter your email:
-vaish@123
+vaish@123<br>
 Enter the number of tickets:
 40
 
-Successfully booked tickets!
+Successfully booked tickets!<br>
 Remaining tickets are : 10
 
 Enter your first name:
-Priya
+Priya<br>
 Enter your last name:
-xyz
+xyz<br>
 Enter your email:
-pri@566
+pri@566<br>
 Enter the number of tickets:
 10
 
-Successfully booked tickets!
+Successfully booked tickets!<br>
 Remaining tickets are : 0
 
 All tickets are booked!
