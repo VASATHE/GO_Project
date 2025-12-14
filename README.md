@@ -47,7 +47,7 @@ This project was developed as a **learning-focused Go application** to strengthe
 
 ---
 
-## ▶ How to Run
+## How to Run
 1. Install Go from: https://go.dev/dl/
 2. Clone the repository:
    ```bash
@@ -56,6 +56,8 @@ This project was developed as a **learning-focused Go application** to strengthe
    cd GO_Project
 4. Run the program:
    go run main.go
+   
+---
 
 ## Sample Output
 
