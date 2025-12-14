@@ -53,10 +53,12 @@ This project was developed as a **learning-focused Go application** to strengthe
    ```bash
    git clone https://github.com/your-username/GO_Project.git
 3. Navigate to the project directory:
+   ```bash
    cd GO_Project
 4. Run the program:
+   ```bash
    go run main.go
-   
+
 ---
 
 ## Sample Output
