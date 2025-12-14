@@ -80,5 +80,8 @@ func greet() {
 	fmt.Printf("\nCurrently available: %v", remainTickets)
 }
 func showbooking() {
-
+	fmt.Println("\nList of booked tickets:")
+	for i, b := range bookings {
+		fmt.Printf("\n %v) %v %v %v - %v tickets", i+1, b.fname, b.lname, b.email, b.num_of_tickets)
+	}
 }
